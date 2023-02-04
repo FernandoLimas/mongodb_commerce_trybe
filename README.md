@@ -15,8 +15,7 @@ Construir queries e expressões complexas utilizando índices textuais e express
     - `cd sd-015-b-mongodb-commerce`
   
   2. Instale as dependências
-
-    - `npm install`
+  - `npm install`
 
   
 

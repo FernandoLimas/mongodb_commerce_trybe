@@ -1,7 +1,6 @@
 # Boas-vindas ao repositório do projeto MongoDB Commerce!
 
-O que foi desenvolvido
-Nesse projeto, trabalhei com o banco de dados commerce (MongoDB), que contém dados do cardápio do McDonald's, como ingredientes, valores nutricionais e dados fictícios de vendas.
+Neste projeto, trabalhei com o banco de dados commerce (MongoDB), que contém dados do cardápio do McDonald's, como ingredientes, valores nutricionais e dados fictícios de vendas.
 
 Neste projeto, fui capaz de:
 Alterar documentos utilizando métodos de update com operadores simples;
@@ -14,6 +13,9 @@ Construir queries e expressões complexas utilizando índices textuais e express
 
   - Entre na pasta do repositório que você acabou de clonar:
     - `cd sd-015-b-mongodb-commerce`
+  
+  2. Instale as dependências
+    - `npm install`
 
   
 
